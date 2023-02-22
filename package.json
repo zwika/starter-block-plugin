@@ -1,0 +1,13 @@
+{
+	"name": "starter-block-plugin",
+	"version": "1.0.0",
+	"description": "Getting started with a block plugin.",
+	"homepage": "https://https://github.com/zwika/starter-block-plugin/",
+	"scripts": {
+		"build": "wp-scripts build",
+		"dev": "wp-scripts start"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^24.5.0"
+	}
+}
